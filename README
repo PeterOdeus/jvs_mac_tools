@@ -1,0 +1,5 @@
+Setup for JVS3
+
+mv .profile ~/.profile
+
+mv maven_nexus_settings $M2_HOME/conf/settings.xml
